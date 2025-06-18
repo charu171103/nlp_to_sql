@@ -58,13 +58,4 @@ At inference time, we use **greedy decoding**, which selects the token with the 
 * Train on larger and more diverse NL-SQL datasets
 * Add web interface using Streamlit
 
-## 📄 License
 
-MIT License
-
-```
-
----
-
-Let me know if you'd like a version with Streamlit UI instructions or formatted with emojis and badges for a fancier appearance.
-```
