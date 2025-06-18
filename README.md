@@ -59,3 +59,7 @@ At inference time, we use **greedy decoding**, which selects the token with the 
 * Add web interface using Streamlit
 
 
+
+
+
+#nlp #deep-learning #tensorflow #sql #machine-learning #text-to-sql #seq2seq #python #keras #sql-chatbot #natural-language-processing
